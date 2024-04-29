@@ -1,1 +1,1 @@
-## Esse projeto será uma API Restfull criada como node e express e utilizando o MongoDB
+## API Restfull criada como NODE, EXPRESS e MongoDB
